@@ -1,0 +1,15 @@
+--------- response template from API -----------
+
+pas abis login ?
+{
+    "accessToken": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxNTk0IiwiaWF0IjoxNTQyNjA4OTY3LCJleHAiOjE1NDMyMTM3Njd9.-GpsLAkVJYMJhmcg4xf-oWvfLiIMJGG1QEKYDAJ_yQWzV7kajPBihX2QusZ7cc3ea5c-QvjUPCTeUKj8UZuTyA",
+    "tokenType": "Bearer"
+} 
+{
+    "timestamp": "2018-11-19T08:49:34.972+0000",
+    "status": 401,
+    "error": "Unauthorized",
+    "message": "Sorry, you're not authorized to access this resource",
+    "path": "/api/auth/sign_in"
+} 
+yg kedua kalau salah password atau username nya salah
